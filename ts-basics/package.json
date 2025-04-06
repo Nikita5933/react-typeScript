@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita5933/react-typeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita5933/react-typeScript/issues"
+  },
+  "homepage": "https://github.com/Nikita5933/react-typeScript#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
